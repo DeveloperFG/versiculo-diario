@@ -21,6 +21,7 @@
 # 🔧 Components
 
 * Usestate
+* Math.floor(Math.random())
 
 
 <br> 
